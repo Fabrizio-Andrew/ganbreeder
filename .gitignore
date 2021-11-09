@@ -5,3 +5,5 @@ server/node_modules/
 server/public/img/
 lambda/
 testing.py
+venv/
+3.8.2/
